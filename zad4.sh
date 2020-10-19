@@ -27,3 +27,4 @@
 
 	printf '%s\n' "${wordlist[@]}"
 )
+
